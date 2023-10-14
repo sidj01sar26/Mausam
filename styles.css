@@ -263,7 +263,7 @@ h1 {
 @media(max-width:768px) {
     .parameter-container {
         width: 100%;
-        margin-top: 90px;
+        margin-top: 30px;
         gap: 9px;
     }
 }
