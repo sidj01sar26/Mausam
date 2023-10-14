@@ -259,3 +259,11 @@ h1 {
     aspect-ratio: 1/1;
     object-fit: cover;
 }
+
+@media(max-width:768px) {
+    .parameter-container {
+        width: 100%;
+        margin-top: 90px;
+        gap: 9px;
+    }
+}
