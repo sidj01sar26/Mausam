@@ -163,7 +163,7 @@ h1 {
 }
 
 .parameter {
-    width: 170px;
+    width: 30%;
     max-width: 200px;
     /* background-color: rgba(219, 226, 239, 0.5); */
     background-color: rgba(115, 113, 111, 0.5);
